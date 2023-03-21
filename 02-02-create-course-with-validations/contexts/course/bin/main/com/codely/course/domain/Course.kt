@@ -13,7 +13,7 @@ data class CourseId(val value: UUID) {
     }
 }
 data class CourseName(val value: String) {
-    init {
+    init { // se ejecuta antes del constructor de la clase
         validate()
     }
 
