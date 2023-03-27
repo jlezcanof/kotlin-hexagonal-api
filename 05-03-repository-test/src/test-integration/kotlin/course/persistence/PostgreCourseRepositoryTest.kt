@@ -24,7 +24,7 @@ class PostgreCourseRepositoryTest : BaseIntegrationTest() {
     @Test
     fun `should save a course`() {
         val courseId = "13590efb-c181-4c5f-9f95-b768abde13e2"
-        val courseToSave = Course(CourseId.fromString(courseId), CourseName("Test"), LocalDateTime.now())
+        val courseToSave = Course(CourseId.fromString(courseId), CourseName("Test"), LocalDateTime.of(2023, 1, 1, 0 ,0))
         repository.save(courseToSave)
 
         val courseFromDb = jdbcTemplate.queryForObject(
