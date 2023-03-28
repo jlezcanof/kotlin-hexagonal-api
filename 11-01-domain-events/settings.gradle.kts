@@ -1,4 +1,4 @@
-rootProject.name = "09-01-domain-events"
+rootProject.name = "11-01-domain-events"
 
 include("contexts:course")
 include("common")

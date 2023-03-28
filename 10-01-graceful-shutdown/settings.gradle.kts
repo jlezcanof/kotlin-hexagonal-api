@@ -1,4 +1,4 @@
-rootProject.name = "08-01-graceful-shutdown"
+rootProject.name = "10-01-graceful-shutdown"
 
 include("contexts:course")
 include("common-test")

@@ -1,3 +1,3 @@
-rootProject.name = "03-02-manage-config-secrets"
+rootProject.name = "04-02-manage-config-secrets"
 
 include("contexts:course")

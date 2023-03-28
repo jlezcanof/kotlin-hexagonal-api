@@ -1,4 +1,4 @@
-rootProject.name = "08-02-deploy-api"
+rootProject.name = "10-02-deploy-api"
 
 include("contexts:course")
 include("common-test")
