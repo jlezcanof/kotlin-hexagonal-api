@@ -15,3 +15,5 @@ lezcano, tienes que hacer estos ejercicios:
 5) Añade tests de aceptación a tu aplicación, incluyendo el campo Descripción que has ido añadiendo en lecciones anteriores y, si quieres, comparte cuál de las dos op/home/jmlezcanof/CodelyTV/kotlin/kotlin-hexagonal_http_api-course/01-01-healthcheckciones para hacer estos test te convence más
 07-01
 
+6) Gestiona los errores como prefieras, con Result, con nuestra implementación de Either o prueba con el Either the Arrow, si quieres comparte tu solución
+7) 09-02
